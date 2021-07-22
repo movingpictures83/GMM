@@ -1,0 +1,6 @@
+csvfile	plugins/GMM/example/input.csv
+numcomps	2
+distmode	maha_dist
+seedmode	random_subset
+kmeans	10
+EM	10

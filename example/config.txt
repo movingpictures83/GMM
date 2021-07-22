@@ -1,0 +1,2 @@
+Prefix plugins/GMM/example
+Plugin GMM inputfile parameters.txt outputfile output.gmm
